@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+venv/
+credentials/credentials.json
+credentials/token.pickle
+data/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
